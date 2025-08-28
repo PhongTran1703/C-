@@ -21,9 +21,9 @@ int main(){
 
 	for(int i = 0; i < size; i++){
 
-		std::cout << "*********************************\n";
+		std::cout << "****i*********************************\n";
 		std::cout << questions[i] << '\n';
-		std::cout << "*********************************\n";
+		std::cout << "**************************************\n";
 	
 		for(int j = 0; j < sizeof(options[i]) / sizeof(options[i][0]); j++){
 		
@@ -45,14 +45,7 @@ int main(){
 		
 		
 		}
-
-
-
-
-
 	}
-
-
 		std::cout << "*********************************\n";
 		std::cout << "              RESULT             \n";
 		std::cout << "*********************************\n";
@@ -60,6 +53,6 @@ int main(){
 		std::cout << "CORRECT GUESSES: " << score << '\n';
 		std::cout << "# of QUESTIONS: " << size << '\n';
 		std::cout << "SCORE: " << (score/double(size))*100 << "%\n";
-
+		std::cout << "*********************************\n";
 	return 0;
 }
