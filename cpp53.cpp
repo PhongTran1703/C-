@@ -27,7 +27,6 @@ int main(){
 
 	return 0;
 }
-
 void printCar(Car &car){
 
 	std::cout << &car << '\n';
