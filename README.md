@@ -1,2 +1,4 @@
 Just C++
-The contents are based on: https://www.youtube.com/watch?v=-TkoO8Z07hI&t=19136s 
+-------------------------------------------------------------------------------|
+The contents are based on: https://www.youtube.com/watch?v=-TkoO8Z07hI&t=19136s|
+-------------------------------------------------------------------------------| 
