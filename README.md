@@ -1,4 +1,4 @@
-Just C++
+Just C/C++
 -------------------------------------------------------------------------------
-The contents are based on: https://www.youtube.com/watch?v=-TkoO8Z07hI&t=19136s
+For learning and testing purposes
 -------------------------------------------------------------------------------
